@@ -28,7 +28,7 @@ The code of Critical Taper Theory (Dahlen et al., 1984; Zhao et al., 1986; Dahle
 README                       - Help file
 LICENSE                      - License file
 
-#   Useage
+#   Usage
     
     Please have your MATLAB add the path that contains [grd_write1.m] and [grdread1.m].
     Please ensure relevant data is in the same file directory as the script.
