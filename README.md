@@ -1,4 +1,4 @@
-#   Critical_Taper_solution
+#   Critical Taper Solution
 The code of Critical Taper Theory (Dahlen et al., 1984; Zhao et al., 1986; Dahlen, 1990; Suppe, 2007) is written in MATLAB to calculate the basal effective friction coefficient and yield stress. Here we use a moving window to calculate the local taper angle. Then these taper angles are used to calculate the basal effective friction coefficient in Critical Taper Theory (Lehner, 1986; Zhao et al., 1986; Bauville et al., 2020).
 
 #   Code support
