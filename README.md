@@ -1,9 +1,9 @@
 #   Critical_Taper_solution
-The code of Critical Taper Theory (Dahlen et al., 1984; Zhao et al., 1986; Dahlen, 1990; Suppe, 2007;) is written by Matlab to calcuate the basal effective friction coefficient and yield stress. Here we use a moving window to calcualte the local taper angle. Then these taper angles are used to calculate the basal effective friction coefficient in Critical Taper Theory (Lehner, 1986; Zhao et al., 1986; Bauville et al., 2020).
+The code of Critical Taper Theory (Dahlen et al., 1984; Zhao et al., 1986; Dahlen, 1990; Suppe, 2007) is written in MATLAB to calculate the basal effective friction coefficient and yield stress. Here we use a moving window to calculate the local taper angle. Then these taper angles are used to calculate the basal effective friction coefficient in Critical Taper Theory (Lehner, 1986; Zhao et al., 1986; Bauville et al., 2020).
 
 #   Code support
-    The code is developed in matlab
-    South China Sea Institute of Oceanography,CAS
+    The code is developed in MATLAB
+    South China Sea Institute of Oceanography, CAS
     Contact me: xuhaobo23@mails.ucas.ac.cn
 
 #   Directory structure description
@@ -31,19 +31,19 @@ LICENSE                      - License file
 #   Useage
     
     Please have your MATLAB add the path that contains [grd_write1.m] and [grdread1.m].
-    Please ensure relevant data are in the same file directory as the script.
+    Please ensure relevant data is in the same file directory as the script.
     Then run [taper_cal.m] or [cal_phi_b_e_cohesion.m] directly.
 
 #   Parameter description
 
-    Relevant parameters are detailed described in the script.
+    Relevant parameters are described in detail in the script.
 
 #   Citation
 
-This work has been submitted for publication in Journal of Geophysical Research: Solid Earth. If this work is accepted in JGR:SE or other place, the citation should be updated.
+This work has been submitted for publication in the Journal of Geophysical Research: Solid Earth. The citation should be updated if this work is accepted in JGR: SE or other places.
 
 #   Data source
-The plate interface depth and top of the oceanic crust depth are interpreted from seismic profiles provided by the National Institute of Oceanography of Pakistan. These data were acquired by WesternGeco® in 1998-1999 (Smith et al., 2012; 2014).
+The plate interface depth and the top of the oceanic crust depth are interpreted from seismic profiles provided by the National Institute of Oceanography of Pakistan. These data were acquired by WesternGeco® in 1998-1999 (Smith et al., 2012; 2014).
 
 The seafloor bathymetry is an integration of newly acquired multi-beam bathymetry and the GEBCO 15 arc-second grid. The multi-beam bathymetry was collected offshore Gwadar by the China-Pakistan joint oceanic expedition in 2017–2018 (Yang et al., 2022; Yu et al., 2024), led by the South China Sea Institute of Oceanology, Chinese Academy of Sciences, with a resolution of approximately 50 m.
 
