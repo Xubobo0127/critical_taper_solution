@@ -40,10 +40,10 @@ LICENSE                      - License file
 
 #   Citation
 
-This work has been submitted for publication in Journal of Geophysical Research: Solid Earth. If this work is accepted in JGR:SE or othe place, the citation should be updated.
+This work has been submitted for publication in Journal of Geophysical Research: Solid Earth. If this work is accepted in JGR:SE or other place, the citation should be updated.
 
 #   Data source
-The plate interface depth and top of the oceanic crust depth are interpreted from seismic profiles that provided by the National Institute of Oceanography of Pakistan.These data were acquired by WesternGeco® in 1998-1999 (Smith et al., 2012; 2014).
+The plate interface depth and top of the oceanic crust depth are interpreted from seismic profiles provided by the National Institute of Oceanography of Pakistan. These data were acquired by WesternGeco® in 1998-1999 (Smith et al., 2012; 2014).
 
 The seafloor bathymetry is an integration of newly acquired multi-beam bathymetry and the GEBCO 15 arc-second grid. The multi-beam bathymetry was collected offshore Gwadar by the China-Pakistan joint oceanic expedition in 2017–2018 (Yang et al., 2022; Yu et al., 2024), led by the South China Sea Institute of Oceanology, Chinese Academy of Sciences, with a resolution of approximately 50 m.
 
