@@ -8,7 +8,7 @@ The code of Critical Taper Theory (Dahlen et al., 1984; Zhao et al., 1986; Dahle
 
 #   Directory structure description
 
-/src/  Contains the source file
+/src/                        - Contains the source file
 
     [taper_cal.m]            - Calculate angles of the taper (seafloor or basal fault) 
     [cal_phi_b_e_cohesion.m] - Calculate the basal effective friction coefficient.
